@@ -7,7 +7,6 @@ function isPalindrome(word) {
     }
     return true;
 }
-
 /* 
 function isPalindrome(word) {
   // iterate from the beginning of the string to the middle of the string
